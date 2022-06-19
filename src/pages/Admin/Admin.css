@@ -1,0 +1,12 @@
+.admin{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    gap:1rem;
+}
+
+.admin .middle-content{
+    display: grid;
+    grid-template-columns: 18rem auto;
+    height: 100%;
+}
